@@ -1,57 +1,51 @@
 Topic 0:
-protein, antigen, mouse, human, serum, adjuvant, development, dna, animal, group, epitope, health, influenza, strain, hpiv, plasmid, dog, peptide, sequence, sgp, antiserum, anti-gp
+cells, sequence, cell, genome, protein, sequences, infection, bats, viral, population, host, gene, specie, covs, cov, genes, alecto
 
 Topic 1:
-network, contact, node, individual, infection, epidemic, population, rate, estimate, disease, distribution, day, country, data, transmission, study, set, algorithm, virus, variable, passenger, air, droplet, patent, colony, technology
+covid-, surgery, group, treatment, mask, case, imaging, lung, hospital, infection, study, risk, surgical, care, ppe, respiratory, influenza
 
 Topic 2:
-rna, membrane, structure, residue, viral, virus, fusion, domain, nsp, sequence, peptide, antibody, fig, host, epitope, analysis, dna, concentration, binding, sample, identified, ifit, isg, cap
+individual, epidemic, population, rate, parameter, testing, social, contact, node, network, spatial, algorithm, graph, model, air, study
 
 Topic 3:
-rna, virus, infection, mouse, protein, strain, gene, specie, fig, patient, response, activity, sample, cell, disease, model, compound, animal, effect, ace
+rna, hcv, compound, viral, virus, sequence, membrane, activity, structure, codon, binding, gene, cell, cells, peptide
 
 Topic 4:
-data, care, hospital, animal, surveillance, case, disease, patient, human, policy, global, information, social, public, risk, participant, tourism, use, infection, study, country, research
+cells, ang, expression, patient, binding, covid-, sars-cov-, cell, rbd, sars-cov, gene, lung, activity, viral, mouse, infection
 
 Topic 5:
-patient, data, image, health, study, death, sars-cov-, model, treatment, virus, segmentation, lung, number, care, rate, procedure, temperature, humidity, air, group, blood, association
+infection, gene, nsp, sequence, assay, viral, infected, expression, proteins, membrane, rna, ifitm, mouse
 
 Topic 6:
-il-, virus, ifn, group, fig, disease, patient, cytokine, cns, human, day, production, viral, expression, mhv, brain, cxcl, ccl, lung, protein, activity, infected, effect
+cat, infection, dog, fip, virus, gene, feline, strain, case, clinical, concentration, animal, human, treatment, population
 
 Topic 7:
-protein, antibody, infection, cell, sars-cov, sars, pro, human, sequence, rna, binding, drug, preprint, case, sars-cov-, outbreak, antiviral, rbd-raav, aav, prime
+protein, rna, gene, virus, activity, expression, vaccine, production, acid, specie, extract, compound, pathogen, group, human, host, authority, author
 
 Topic 8:
-virus, expression, gene, rna, culture, assay, viral, fig, entry, antibody, ifitm, pathway, infection, apoptosis, response, activity, tissue, lung, effect, mouse, cycle
+virus, cells, viral, gene, mouse, sequence, protein, strain, study, vaccine, genome, case, patient, concentration, infection, surface, cell
 
 Topic 9:
-asthma, influenza, infant, case, hrv, hbov, pneumonia, symptom, detected, sample, illness, wheezing, bronchiolitis, antibody, response, exacerbation, airway, treatment, rsv, bacterial, cell, pilgrim, hajj, health
+patient, protein, camel, human, mouse, sars-cov, vaccine, case, cells, binding, transmission, mers, antibody, outbreak, viral, rna, lung
 
 Topic 10:
-probe, primer, dna, respiratory, influenza, specimen, lamp, patient, test, infection, rna, target, device, extraction, gene, rt-pcr, rt-qpcr, viral, table, denv, sequence, genus, phylogenetic, sars-cov-
+health, patient, disease, care, case, public, outbreak, research, data, social, information, user, study, market, model, result
 
 Topic 11:
-rna, strain, bat, gene, ibv, specie, protein, read, codon, structure, genome, human, viral, expression, mutation, frameshifting, cell, host, population, dna, probe, sample, reference
+treatment, milk, infection, colostrum, concentration, strain, sample, herd, antibody, diarrhea, cells, bcov, serum, bovine, gene, cow, cattle, production, beef
 
 Topic 12:
-respiratory, cell, virus, lung, group, treatment, blood, care, hospital, level, therapy, strain, pulmonary, isolates, transfusion, antibody, icu, infection, sars, donor, case, day, bacterial, bacteria
+pedv, pig, cells, piglet, strain, sequence, farm, group, animal, gene, infection, cell, intestinal, rna, disease, protein, patient, mucosal, immune
 
 Topic 13:
-cell, sequence, gene, protein, sample, vero, pig, orf, fig, feed, group, gilt, iga, value, ingredient, piglet, farm, herd, model, infected
+influenza, asthma, viral, patient, detection, pneumonia, pcr, child, infant, year, bacterial, antibiotic, airway, age, cells, bronchiolitis
 
 Topic 14:
-cell, mouse, protein, mers, outbreak, dromedary, binding, clinical, human, disease, sequence, sample, pro, assay, rna, bat, activity, fig, user, data, twitter, camel, patient
+patient, case, covid-, day, model, rate, population, transmission, infected, sars-cov-, health, clinical, risk, sample, viral, study
 
 Topic 15:
-dog, fip, cat, lesion, cell, day, sample, sequence, felv, fiv, animal, population, ccov, vaccine, gene, igg, heart, ventricular, cardiomyopathy, sand, desert, allele
+cells, lung, infection, covid-, il-, group, donor, cell, blood, treatment, mortality, day, case, care, year, method
 
 Topic 16:
-herd, treatment, concentration, colostrum, antibody, diarrhea, case, disease, cell, brd, coli, strain, serum, healthy, farm, abundance, group, infection, bvdv, genetic, fecal, stall, housing, effect, maternal, phage, acidity, lactose-negative
-
-Topic 17:
-case, patient, number, model, medrxiv, covid-, license, data, sample, gene, sequence, expression, available, protein, cell, virus, test, testing, fig, rna, drug, review, influenza, article, research, epitope, vaccine, county, ili
-
-Topic 18:
-compound, virus, air, antibody, ace, particle, sample, inhibitor, cell, activity, animal, group, acid, sirna, disease, fig, drug, method, rat, effect, day, gene, model, data, pig
+epitope, il-, mouse, peptide, antibody, infection, virus, binding, protein, patient, vaccine, viral, cns, expression, mice
 
