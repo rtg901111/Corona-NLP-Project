@@ -1,10 +1,10 @@
 # Corona-NLP-Project
-Stats 170B Coronavirus Risk Factors Project
+## Stats 170B Coronavirus Risk Factors Project
 
-Authors:
+### Authors:
 - Sanghun Kim
 - Caleb Guan
 
-Files:
+### Files:
 - ldavis_prepared_initial_10, ldavis_prepared_initial_10.html: LDA visualization file. Includes intertopic distance map and relevant words.
 - 
